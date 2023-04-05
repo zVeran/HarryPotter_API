@@ -1,11 +1,11 @@
 <h2>API: PotterDB<h2>
 
-<h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/229946659-ae8f8b38-fa56-4db1-b7e0-58993d022488.png" heigth="300px" width="300px"/></h1>
+<h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/229957740-54ce8e39-fdef-4c6e-9a9d-3ce9f55fa2ae.png" heigth="300px" width="300px"/></h1>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=APLICABILIDADE&message=APRESENTA%20DADOS%20REFERENTES%20AO%20MUNDO%20DO%20HARRY%20POTTER: PERSONAGENS, FILMES%20E%20LIVROS&color=yellow&style=for-the-badge"/>
 </p>
 
-<details open="sumario">
+  <details open="sumario">
 <summary>Sumário:</summary>
 
 - [ Desenvolvedores ](#Desenvolvedores)
