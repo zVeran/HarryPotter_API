@@ -23,7 +23,7 @@
 **Turma:** 3ºDS;
 
 ## :hammer: Funcionalidades
-O tema central da nosso projeto é a saga de “Harry Potter”, onde trabalhamos com o intuito de desenvolver uma aplicação diretamente focada em atrair os grandes espectadores e fãs dessa saga, procurando levar informações e trazer diversas funcionalidades, exclusividades e entretenimento ao usuário. A implementação da API, tem como principal funcionalidade retornar dados referentes ao tema, como: personagens, livros e filmes.
+<p Align="justify"> O tema central da nosso projeto é a saga de “Harry Potter”, onde trabalhamos com o intuito de desenvolver uma aplicação diretamente focada em atrair os grandes espectadores e fãs dessa saga, procurando levar informações e trazer diversas funcionalidades, exclusividades e entretenimento ao usuário. A implementação da API, tem como principal funcionalidade retornar dados referentes ao tema, como: personagens, livros e filmes. </p>
 
 ## 🔗 URL da Documentação
 https://github.com/danielschuster-muc/potter-db
